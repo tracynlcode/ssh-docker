@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 buntu:latest
+FROM --platform=linux/amd64 ubuntu:latest
 
 ARG user_id
 ARG user_gid
